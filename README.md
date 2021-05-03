@@ -5,7 +5,7 @@ Feel free to contact me for collabs, commissions etc :)
 
 
 ```javascript
-const me = require('maurits.js');
+const me = require('maurits.json');
 
 console.log(`Hi! Im ${me.name}`);
 console.log(`I mainly program in ${me.preferredLanguage}, woops I meant ${me.preferredProgrammingLanguage}`); 
