@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
 
-<!--
-**MauritsWilke/MauritsWilke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Just a hobby dev learning new things!
+Feel free to contact me for collabs, commissions etc :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = require('maurits.js');
+console.log(`Hi! Im ${me.name}.`);
+console.log(`I mainly program in ${me.preferredLanguage}, woops I meant ${me.preferredProgrammingLanguage}.`); 
+console.log(`I have two adorable cats named ${me.pets.cats[0].name} and ${me.pets.cats[1].name.`);
+console.log(`You can find them on my site! ${me.site}`);
+//Hi! Im Maurits. 
+//I mainly program in Dutch, woops I meant JavaScript. 
+//I have two adorable cats named Pippa and Olly. 
+//You can find them on my site! mauritswilke.com
+
+```
