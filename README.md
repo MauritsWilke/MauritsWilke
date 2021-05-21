@@ -9,7 +9,7 @@ const me = require('maurits.json');
 
 console.log(`Hi! Im ${me.name}`);
 console.log(`I mainly program in ${me.preferredLanguage}, woops I meant ${me.preferredProgrammingLanguage}`); 
-console.log(`I have two adorable cats named ${me.pets.cats[0].name} and ${me.pets.cats[1].name`);
+console.log(`I have two adorable cats named ${me.pets.cats[0].name} and ${me.pets.cats[1].name}`);
 console.log(`You can find them on my site! ${me.site}`);
 
 //Hi! Im Maurits
