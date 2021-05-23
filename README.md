@@ -18,4 +18,4 @@ console.log(`You can find them on my site! ${me.site}`);
 //You can find them on my site! mauritswilke.com
 
 ```
-For the lazy: [mauritswilke.com](http://www.mauritswilke.com)
+For the lazy: [MauritsWilke.com](http://www.mauritswilke.com)
