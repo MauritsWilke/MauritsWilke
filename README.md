@@ -19,4 +19,13 @@ console.log(`You can find them on my site! ${Me.site}`);
 
 For the lazy: [MauritsWilke.com](http://www.mauritswilke.com)
 
+```js
+// This poem came into existence during Advent of Code
+for(row of input){
+    for(number of row){
+        console.log("this algorithm is slow")
+    }
+}
+```
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en" alt="mauritswilke" /></p>
