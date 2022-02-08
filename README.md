@@ -4,7 +4,7 @@ Hi! Just a hobby dev learning new things!
 Feel free to contact me for collabs, commissions etc :)
 
 ```javascript
-const Me = require("./Maurits.json");
+import Me from "./Maurits.json"
 
 console.log(`Hi! Im ${Me.name}`);
 console.log(`I mainly program in ${Me.preferredLanguage}, woops I meant ${Me.preferredProgrammingLanguage}`);
