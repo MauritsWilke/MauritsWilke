@@ -1,7 +1,8 @@
 # About me
 
-Hi! Just a hobby dev learning new things!
-Feel free to contact me for collabs, commissions etc :)
+Hi! Just a hobby dev learning new things!\
+Feel free to contact me for collabs, commissions etc :)\
+Discord: [The Almighty One#3365](https://discordapp.com/users/378874450105466880/)
 
 ```javascript
 import Me from "./Maurits.json"
