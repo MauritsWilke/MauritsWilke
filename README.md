@@ -13,7 +13,7 @@ console.log(`I have two adorable cats named ${Me.pets.cats[0].name} and ${Me.pet
 console.log(`You can find them on my site! ${Me.site}`);
 
 // Hi! Im Maurits
-// I mainly program in Dutch, woops I meant JavaScript
+// I mainly program in Dutch, woops I meant TypeScript
 // I have two adorable cats named Pippa and Olly
 // You can find them on my site! MauritsWilke.com
 ```
