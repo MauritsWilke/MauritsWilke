@@ -13,18 +13,19 @@ This is my setup I use for developing!
 🔊 **Audio:** 7.1 soundcard\
 🔌 **Power Supply:** 650 Watt Seasonic\
 🖥 **Monitor 1:** iiyama ProLite E2280WSD-B1 22 Inch\
-🖥 **Monitor 2:** iiyama ProLite E2280WSD-B1 22 Inch\
+🖥 **Monitor 2:** iiyama ProLite E2280WSD-B1 22 Inch
 
 ⌨ **Keyboard:** Logitech G915 (Qwerty US, Linear)\
 🖱 **Mouse 1:** Logitech G502\
 🖱 **Mouse 2:** Glorious Model O Matte Black\
-🎧 **Headset:** Bose QuietComfort 35 wireless headphones II Black\
+🎧 **Headset:** Bose QuietComfort 35 wireless headphones II Black
 
 ## 🛠 Tools I use
-🖊 **Editor:** Mainly Visual Studio Code (with a _lot_ of extensions)\
+🖊 **Editor:** Mainly Visual Studio Code (with a _lot_ of extensions)
 <details>
   <summary>💉 Extensions I have installed</summary>
   
   - Coming soon!
 </details>
-📸 **Version Manager:** Git + GitHub\
+
+📸 **Version Manager:** Git + GitHub
