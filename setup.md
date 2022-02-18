@@ -110,3 +110,175 @@ This is my setup I use for developing!
  - [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
  - [vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 </details>
+
+<details>
+  <summary>⚙ My config file</summary>
+  
+  ```json
+  {
+	"terminal.integrated.shell.windows": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"liveServer.settings.donotVerifyTags": true,
+	"explorer.confirmDragAndDrop": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"js/ts.implicitProjectConfig.strictFunctionTypes": false,
+	"terminal.integrated.tabs.enabled": true,
+	"editor.formatOnSave": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.syntaxProfiles": {},
+	"editor.linkedEditing": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"gitlens.currentLine.enabled": false,
+	"gitlens.hovers.currentLine.over": "line",
+	"gitlens.codeLens.enabled": false,
+	"editor.cursorStyle": "line",
+	"editor.insertSpaces": false,
+	"editor.lineNumbers": "on",
+	"editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+	"editor.wordWrap": "off",
+	"gitlens.mode.active": "zen",
+	"editor.detectIndentation": false,
+	"vim.handleKeys": {
+		"<C-d>": true
+	},
+	"files.defaultLanguage": "${activeEditorLanguage}",
+	"vsicons.dontShowNewVersionMessage": true,
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.startupEditor": "welcomePage",
+	"security.workspace.trust.untrustedFiles": "open",
+	"workbench.editorAssociations": {
+		"*.vsix": "default",
+		"*.exe": "default"
+	},
+	"better-comments.tags": [
+		{
+			"tag": "_",
+			"color": "#55FFFF",
+			"strikethrough": false,
+			"underline": true,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "**",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": true,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		}
+	],
+	"json.maxItemsComputed": 50000,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"workbench.colorTheme": "Atom One Dark",
+	"editor.inlineSuggest.enabled": true,
+	"svelte.plugin.css.completions.emmet": false,
+	"svelte.plugin.css.completions.enable": false,
+	"svelte.plugin.css.diagnostics.enable": false,
+	"prettier.tabWidth": 4,
+	"prettier.printWidth": 1000,
+	"git.confirmSync": false,
+	"workbench.tree.renderIndentGuides": "always",
+	"workbench.tree.indent": 15,
+	"workbench.colorCustomizations": {
+		"tree.indentGuidesStroke": "#99DAAC",
+		"titleBar.activeBackground": "#467A55", // Change this color!
+		"titleBar.activeForegroudn": "#99DAAC",
+		// "titleBar.inactiveForeground": "#FF5555",
+		// "titleBar.inactiveBackground": "#555555",
+		"titleBar.border": "#555555",
+		"tab.activeModifiedBorder": "#FF5555",
+		"tab.hoverBorder": "#99DAAC",
+		"tab.activeForeground": "#99DAAC",
+		"statusBar.background": "#467A55",
+		"statusBar.foreground": "#99DAAC"
+	},
+	"editor.fontLigatures": false,
+	"terminal.integrated.fontFamily": "monospace",
+	"editor.lineHeight": 1.5,
+	"editor.fontFamily": "'Monoid'",
+	"editor.fontSize": 12,
+	"window.title": "${dirty}${separator}${dirty}${activeEditorShort} - ${rootName}",
+	"window.titleSeparator": "  unsaved  ",
+	"workbench.editor.titleScrollbarSizing": "large",
+	"workbench.editor.highlightModifiedTabs": true,
+	"terminal.explorerKind": "external",
+	"formatFiles.extensionsToInclude": ".js",
+	"bracket-pair-colorizer-2.depreciation-notice": false,
+	"editor.guides.bracketPairs": true,
+	"editor.bracketPairColorization.enabled": true,
+	"synthwave84.brightness": 1,
+	"workbench.productIconTheme": "fluent-icons",
+	"javascript.inlayHints.variableTypes.enabled": true,
+	"typescript.inlayHints.enumMemberValues.enabled": true,
+	"typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"javascript.inlayHints.parameterTypes.enabled": true,
+	"typescript.inlayHints.parameterTypes.enabled": true,
+	"typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"typescript.inlayHints.variableTypes.enabled": true,
+	"typescript.inlayHints.parameterNames.enabled": "literals",
+	"javascript.inlayHints.parameterNames.enabled": "literals",
+	"typescript.referencesCodeLens.showOnAllFunctions": true,
+	"javascript.referencesCodeLens.showOnAllFunctions": true,
+	"errorLens.delay": 1500,
+	"javascript.inlayHints.enumMemberValues.enabled": true,
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"explorer.confirmDelete": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"glassit.alpha": 255,
+	"editor.minimap.enabled": false
+}
+  ```
+</details>
