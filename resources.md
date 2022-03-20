@@ -1,6 +1,7 @@
 This is a collection of resources I found and use.
 
 # Design
+I use [Figma](https://www.figma.com/) to design basically everything
 
 ### Icons, illustrations and images
  - [systemuicons](https://systemuicons.com/) - 420 free icons (no attribution)
@@ -25,4 +26,4 @@ This is a collection of resources I found and use.
  - [Checklist of Design](https://www.checklist.design/) - Collection of the best design practices
  - [Device Mockups](https://mockuphone.com/) - wrap your design in mock ups 
  - [Front-End tool kit](https://www.fetoolkit.io/) - recurring front end tasks automated
- - [Rresponsive Browser](https://responsively.app/) - Browser for easily checking responsiveness 
+ - [Responsive Browser](https://responsively.app/) - Browser for easily checking responsiveness 
