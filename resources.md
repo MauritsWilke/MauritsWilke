@@ -16,6 +16,7 @@ I use [Figma](https://www.figma.com/) to design basically everything
  - [Coolors](https://coolors.co/) - Colour palette generator
  - [Colour tint generator](https://noeldelgado.github.io/shadowlord/) - easily generate colour tints
  - [Colour Guide](https://uxmisfit.com/2019/05/21/ui-design-in-practice-colors/) - Colour theory
+ - [Paletton](https://paletton.com) - Quickly generate palettes!
 
 ### Examples of UI and UX
  - [Mobile app screenshots](https://mobbin.design/browse/android/screens) - Screenshots of big apps on mobile (sign up required)
