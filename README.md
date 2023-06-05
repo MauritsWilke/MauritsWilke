@@ -29,4 +29,14 @@ for(row of input){
 }
 ```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en" alt="mauritswilke" /></p>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&hide_border=true&cache_seconds=0&locale=en&hide_rank=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true" />
+</picture>
