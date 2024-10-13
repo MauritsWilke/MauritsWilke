@@ -1,7 +1,10 @@
-# About me
+# 💡 About me
 
-Hi! Just a hobby dev learning new things!
-Feel free to contact me for collabs, commissions etc :)
+![Discord](https://img.shields.io/badge/Discord-The%20Almighty%20One%233365-88DAAC)
+![GitHub followers](https://img.shields.io/github/followers/MauritsWilke?color=%2388DAAC&label=Followers&style=social)
+
+Hi! I'm currently studying Computer Science and Information Science at Utrecht University.\
+The project I am currently working on is [storytel-api](https://github.com/MauritsWilke/storytel-api). Feel free to [contact me][mauritswilke.com]!
 
 ```javascript
 const Me = require("./Maurits.json");
@@ -12,11 +15,16 @@ console.log(`I have two adorable cats named ${Me.pets.cats[0].name} and ${Me.pet
 console.log(`You can find them on my site! ${Me.site}`);
 
 // Hi! Im Maurits
-// I mainly program in Dutch, woops I meant JavaScript
+// I mainly program in Dutch, woops I meant TypeScript
 // I have two adorable cats named Pippa and Olly
 // You can find them on my site! MauritsWilke.com
 ```
 
-For the lazy: [MauritsWilke.com](http://www.mauritswilke.com)
+For the lazy: [MauritsWilke.com]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en" alt="mauritswilke" /></p>
+## 📊 Statistics
+Everyone seems to have these embeds on their profile, so here's mine:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true" alt="mauritswilke" /></p>
+
+[mauritswilke.com]: https://www.mauritswilke.com
+[hex]: #FFFFFF
