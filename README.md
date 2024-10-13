@@ -1,9 +1,7 @@
 # 💡 About me
 
-![Discord](https://img.shields.io/badge/Discord-The%20Almighty%20One%233365-88DAAC)
-![GitHub followers](https://img.shields.io/github/followers/MauritsWilke?color=%2388DAAC&label=Followers&style=social)
 
-Hi! I'm currently studying Computer Science and Information Science at Utrecht University.\
+Hi! I'm currently studying Computer Science and Information Science at Utrecht University.
 The project I am currently working on is [storytel-api](https://github.com/MauritsWilke/storytel-api). Feel free to [contact me][mauritswilke.com]!
 
 ```javascript
